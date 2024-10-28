@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+    font-family: "Raleway",sans-serif;
+    font-size: 13px;
+    color: #ec2c2f;
+}
+.container p {
+    color: #ec2c2f;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f9f5f4;
+    padding: 0.7rem;
+}
